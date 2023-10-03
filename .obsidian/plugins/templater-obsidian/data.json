@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "700 📁 Archivos/710 Plantillas",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "100 📐 Proyectos",
+      "template": "700 📁 Archivos/710 Plantillas/400 Nuevo Proyecto.md"
+    },
+    {
+      "folder": "200 📝 Notas",
+      "template": "700 📁 Archivos/710 Plantillas/100 Nueva Nota.md"
+    },
+    {
+      "folder": "300 📖 Notas diarias",
+      "template": "700 📁 Archivos/710 Plantillas/600 Nueva Nota Diaria.md"
+    },
+    {
+      "folder": "400 📌 Recursos",
+      "template": "700 📁 Archivos/710 Plantillas/200 Nuevo Recurso.md"
+    },
+    {
+      "folder": "500 🗃️ Notas literarias",
+      "template": "700 📁 Archivos/710 Plantillas/300 Nueva Nota Literaria.md"
+    },
+    {
+      "folder": "600 🏷️ Etiquetas",
+      "template": "700 📁 Archivos/710 Plantillas/500 Nueva Etiqueta.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

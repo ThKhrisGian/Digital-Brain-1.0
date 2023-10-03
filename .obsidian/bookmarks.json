@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1696349643906,
+      "path": "700 📁 Archivos/720 Vistas/🏠 Dashboard.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1696349657326,
+      "path": "700 📁 Archivos/720 Vistas/📝 Notas.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1696349666469,
+      "path": "700 📁 Archivos/720 Vistas/📌 Recursos.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1696349674790,
+      "path": "700 📁 Archivos/720 Vistas/🗃️ Notas literarias.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1696349689797,
+      "path": "700 📁 Archivos/720 Vistas/🔼 Dirección.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1696349701954,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696349744855,
+          "path": "800 Sistema Digital Brain 1.0/🧠 Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349753113,
+          "path": "800 Sistema Digital Brain 1.0/Configuración de Obsidian Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349761869,
+          "path": "800 Sistema Digital Brain 1.0/Estructura de Carpetas Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349769569,
+          "path": "800 Sistema Digital Brain 1.0/Plugins Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349777082,
+          "path": "800 Sistema Digital Brain 1.0/Plugins recomendados Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349786366,
+          "path": "800 Sistema Digital Brain 1.0/Tipos de Nota Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349802928,
+          "path": "800 Sistema Digital Brain 1.0/Plantillas Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349814851,
+          "path": "800 Sistema Digital Brain 1.0/Enlaces y Etiquetas Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349905813,
+          "path": "800 Sistema Digital Brain 1.0/Metadatos Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349912273,
+          "path": "800 Sistema Digital Brain 1.0/Vistas Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349920701,
+          "path": "800 Sistema Digital Brain 1.0/Flujo de Trabajo Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349927469,
+          "path": "800 Sistema Digital Brain 1.0/Taxonomía Digital Brain 1.0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1696349936467,
+          "path": "800 Sistema Digital Brain 1.0/Marcadores Digital Brain 1.0.md"
+        }
+      ],
+      "title": "Digital Brain 1.0"
+    }
+  ]
+}

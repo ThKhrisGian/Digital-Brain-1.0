@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"cbcfd09081a19154","type":"text","text":"## Tareas\n\n```tasks\nnot done\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nexclude sub-items\npriority is none\n```","x":-880,"y":-300,"width":453,"height":773,"color":"#0d0d0d"},
+		{"id":"0316f79f13008e4b","type":"text","text":"## 🔺 Importante y Urgente (Hacer Ahora)\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\nexclude sub-items\npriority is highest\n```","x":-427,"y":-300,"width":453,"height":386,"color":"1"},
+		{"id":"ba1e0220892928b1","type":"text","text":"## 🔼 Importante No Urgente (Delegar si se puede)\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\nexclude sub-items\npriority is medium\n```","x":-427,"y":86,"width":453,"height":386,"color":"5"},
+		{"id":"b679fbd52226055e","type":"text","text":"## ⏬️ No Importante No Urgente (Eliminar si se puede)\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\nexclude sub-items\npriority is lowest\n```","x":27,"y":86,"width":453,"height":386,"color":"3"},
+		{"id":"c06d4f91060a94d9","type":"text","text":"## ⏫ Importante No Urgente\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\nexclude sub-items\npriority is high\n```","x":27,"y":-300,"width":453,"height":386,"color":"4"}
+	],
+	"edges":[]
+}

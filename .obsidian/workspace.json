@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "937e47c12f063b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "7507359a3a86cf16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84d75e91ae9c4522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 📁 Archivos/720 Vistas/🏠 Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8d183afbdaaa5c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff083fb2c31e7d1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1286bf53d9dfae8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "478a7f3a516ed83b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f971ca7735a9f199",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1a44d7067c4c489",
+    "type": "split",
+    "children": [
+      {
+        "id": "22824f764f255318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6731e9d6210e9542",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c72dc1715906613",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "700 📁 Archivos/720 Vistas/🏠 Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99ff170fa8185af9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "700 📁 Archivos/720 Vistas/🏠 Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c959cba69644814b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d29e1d1757ca9173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "700 📁 Archivos/720 Vistas/🏠 Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "84d75e91ae9c4522",
+  "lastOpenFiles": [
+    "700 📁 Archivos/720 Vistas/🏠 Dashboard.md",
+    "800 Sistema Digital Brain 1.0/Plantillas Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/🧠 Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Configuración de Obsidian Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Marcadores Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Taxonomía Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Flujo de Trabajo Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Vistas Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Metadatos Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Enlaces y Etiquetas Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Estructura de Carpetas Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Plugins Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Plugins recomendados Digital Brain 1.0.md",
+    "800 Sistema Digital Brain 1.0/Tipos de Nota Digital Brain 1.0.md",
+    "700 📁 Archivos/720 Vistas/🗃️ Notas literarias.md",
+    "700 📁 Archivos/720 Vistas/📌 Recursos.md",
+    "700 📁 Archivos/720 Vistas/📝 Notas.md",
+    "700 📁 Archivos/770 Canvas/Matriz de Tareas.canvas",
+    "700 📁 Archivos/720 Vistas/✏️ Tareas.md",
+    "700 📁 Archivos/720 Vistas/📐 Proyectos.md",
+    "700 📁 Archivos/720 Vistas/🏷️ Etiquetas.md",
+    "200 📝 Notas/Nota de prueba.md",
+    "600 🏷️ Etiquetas/🏷️ Prueba.md",
+    "200 📝 Notas/Prueba.md",
+    "100 📐 Proyectos/Proyecto Nuevo.md",
+    "500 🗃️ Notas literarias/Nueva Nota Literaria.md",
+    "500 🗃️ Notas literarias/prueba.md",
+    "700 📁 Archivos/770 Canvas",
+    "700 📁 Archivos/740 Banners/banner01.png",
+    "700 📁 Archivos/740 Banners/banner05.png",
+    "700 📁 Archivos/ 760 Excalidraw",
+    "700 📁 Archivos/760 Excalidraw",
+    "700 📁 Archivos/730 Adjuntos/Pasted Image 20231003110331_284.png",
+    "Excalidraw",
+    "700 📁 Archivos/750 fileClass",
+    "700 📁 Archivos/740 Banners",
+    "700 📁 Archivos/730 Adjuntos",
+    "700 📁 Archivos/720 Vistas",
+    "700 📁 Archivos/710 Plantillas",
+    "800 Sistema Digital Brain 1.0"
+  ]
+}
