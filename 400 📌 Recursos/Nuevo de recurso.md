@@ -1,4 +1,4 @@
-Tipo:: 
+Tipo:: 🎥
 Estado:: 
 Autor:: 
 URL:: 

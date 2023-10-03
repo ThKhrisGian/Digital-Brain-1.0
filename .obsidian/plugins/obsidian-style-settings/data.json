@@ -1,5 +1,21 @@
 {
   "minimal-style@@row-lines": true,
   "minimal-style@@col-lines": true,
-  "minimal-style@@row-alt": true
+  "minimal-style@@row-alt": true,
+  "supercharged-links@@41b4-a051-before": "🌱 ",
+  "supercharged-links@@e51a-5e5d-before": "🌿 ",
+  "supercharged-links@@dc5c-2acd-before": "🌲 ",
+  "supercharged-links@@8356-2052-before": "📖 ",
+  "supercharged-links@@2016-36c2-before": "🎥 ",
+  "supercharged-links@@1fd1-c866-before": "📚 ",
+  "supercharged-links@@a3b8-7802-before": "💡",
+  "supercharged-links@@e491-94d3-before": "📰 ",
+  "supercharged-links@@3f06-c44d-before": "🎧 ",
+  "supercharged-links@@5bce-9936-before": "✍️ ",
+  "supercharged-links@@0669-b34f-before": "📁 ",
+  "supercharged-links@@1429-14c0-before": "🖼️ ",
+  "supercharged-links@@7730-228c-before": "🔗 ",
+  "supercharged-links@@3eae-122e-before": "📃 ",
+  "supercharged-links@@c913-2b4c-before": "📋 ",
+  "supercharged-links@@2e70-692d-before": "💬 "
 }

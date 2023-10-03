@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3f9ffcf87210bc9f",
+        "id": "56eb1eb41dd23a8a",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd7e218708c16fb",
+            "id": "e530670dddcb9ebd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "500 🗃️ Notas literarias/Nueva nota literaria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "500 🗃️ Notas literarias/Nueva nota literaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "500 🗃️ Notas literarias/Nueva nota literaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "500 🗃️ Notas literarias/Nueva nota literaria.md"
+              }
             }
           }
         ]
@@ -150,8 +158,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1286bf53d9dfae8c",
+  "active": "e530670dddcb9ebd",
   "lastOpenFiles": [
+    "400 📌 Recursos/Nuevo de recurso.md",
+    "300 📖 Notas diarias/2023-10-03.md",
+    "200 📝 Notas/Nota de prueba.md",
     "700 📁 Archivos/720 Vistas/🏷️ Etiquetas.md",
     "600 🏷️ Etiquetas/🏷️ Productividad.md",
     "700 📁 Archivos/720 Vistas/🏠 Dashboard.md",
@@ -159,9 +170,7 @@
     "700 📁 Archivos/720 Vistas/🗃️ Notas literarias.md",
     "500 🗃️ Notas literarias/Nueva nota literaria.md",
     "700 📁 Archivos/720 Vistas/📌 Recursos.md",
-    "400 📌 Recursos/Nuevo de recurso.md",
     "700 📁 Archivos/720 Vistas/📝 Notas.md",
-    "200 📝 Notas/Nota de prueba.md",
     "100 📐 Proyectos/Proyecto de Prueba.md",
     "800 Sistema Digital Brain 1.0/Plantillas Digital Brain 1.0.md",
     "800 Sistema Digital Brain 1.0/🧠 Digital Brain 1.0.md",
@@ -178,7 +187,6 @@
     "800 Sistema Digital Brain 1.0/Tipos de Nota Digital Brain 1.0.md",
     "700 📁 Archivos/770 Canvas/Matriz de Tareas.canvas",
     "700 📁 Archivos/720 Vistas/✏️ Tareas.md",
-    "600 🏷️ Etiquetas/🏷️ Prueba.md",
     "700 📁 Archivos/770 Canvas",
     "700 📁 Archivos/740 Banners/banner01.png",
     "700 📁 Archivos/740 Banners/banner05.png",
