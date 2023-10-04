@@ -1,2 +1,2 @@
-![](https://www.tecnologia-informatica.com/wp-content/uploads/2018/08/caracteristicas-de-las-computadoras-1.jpeg)
+![Imgur](https://i.imgur.com/XigGh62.png)
 # Digital-Brain-1.0
